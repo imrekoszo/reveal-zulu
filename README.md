@@ -51,9 +51,10 @@ macOS 10.16
 Cursive 1.10.2-2020.3
 ```
 
-1. Add new local REPL Run config
-2. Run it
-3. `(do (require 'vlaaad.reveal) (add-tap (vlaaad.reveal/ui)))`
+1. Ensure the project is using the `8.0.282.fx-zulu` JDK 
+2. Add new local REPL Run config
+3. Run it
+4. `(do (require 'vlaaad.reveal) (add-tap (vlaaad.reveal/ui)))`
 
 Reveal window does not appear, the following error is printed:
 
@@ -61,3 +62,5 @@ Reveal window does not appear, the following error is printed:
 Syntax error (IllegalArgumentException) compiling . at (cljfx/jdk/platform.clj:6:5).
 No matching method startup found taking 1 args for class javafx.application.Platform
 ```
+
+Problem persists even after cache invalidation/restart.
