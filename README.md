@@ -47,6 +47,8 @@ Build #IC-203.8084.24, built on April 27, 2021
 Runtime version: 11.0.10+8-b1145.96 x86_64
 VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o.
 macOS 10.16
+
+Cursive 1.10.2-2020.3
 ```
 
 1. Add new local REPL Run config
