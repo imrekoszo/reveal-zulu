@@ -42,13 +42,13 @@ Reveal window appears.
 Using
 
 ```text
-IntelliJ IDEA 2020.3.4 (Community Edition)
-Build #IC-203.8084.24, built on April 27, 2021
-Runtime version: 11.0.10+8-b1145.96 x86_64
-VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o.
-macOS 10.16
+IntelliJ IDEA 2021.1.1 (Community Edition)
+Build #IC-211.7142.45, built on April 30, 2021
+Runtime version: 11.0.10+9-b1341.41 x86_64
+VM: Dynamic Code Evolution 64-Bit Server VM by JetBrains s.r.o.
+macOS 11.3.1
 
-Cursive 1.10.2-2020.3
+Cursive 1.10.2-2021.1
 ```
 
 1. Ensure the project is using the `8.0.282.fx-zulu` JDK 
